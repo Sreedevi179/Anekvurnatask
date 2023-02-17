@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372115755457",
+    "project_id": "anekvurnatask",
+    "storage_bucket": "anekvurnatask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372115755457:android:9e3e7cae933de149ab5f40",
+        "android_client_info": {
+          "package_name": "com.example.anekvurnatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372115755457-oslqsr826n7eh0dhg44l4pdeoi6crlvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvsJ8A5M6okeLXfpLmhO0bcuiYU5kdEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372115755457-oslqsr826n7eh0dhg44l4pdeoi6crlvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
